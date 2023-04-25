@@ -1,0 +1,24 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    /* box-sizing:border-box; */
+/* } */ 
+
+
+
+#grid{
+    width: 610px;
+    height: 610px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.select{
+    width: 200px;
+    height: 202px;
+    border: 1px solid black;
+}
+
+.mole{
+    background-image: url("./images/mole.jpg");
+    background-size: cover;
+}
